@@ -14,18 +14,22 @@
   <img src="https://github.com/mohamed352/Fyrp/assets/48868363/71a9169c-52b7-4957-8825-85e56268c913" alt="splash" width="400">
 </div>
 
-## Screenshots
-| Intro                                          | SingUp                                  | Login                                             |
+## Mobile
+| Login                                          | home                                  | Select                                             |
 | --------------------------------------------------- | ------------------------------------- | --------------------------------------------------------- |
-| ![intro_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/e418aefa-fef4-4da8-accc-405bf7bf0928) | ![singUp_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/dd436e0a-8d6f-4881-bfa4-76893f58e910) |![login_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/291218d6-b09f-40f7-909f-5adc1c9a1f30) |
+| ![mobile-login](https://github.com/mohamed352/Fyrp/assets/48868363/6ad1d2b9-26cc-4df4-8e0e-7ae9d94b8bb6) |![home-mobile](https://github.com/mohamed352/Fyrp/assets/48868363/6fab8b45-5ecb-48f1-b6a1-fa9d552e5552) |![selectlang-mobile (1)_samsung-galaxys20-cloudblue-portrait](https://github.com/mohamed352/Fyrp/assets/48868363/b6ddd139-f319-4f07-8de1-38e99ecee30f) 
 
-| home                                           | story                                           | Post                                           |
-| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| ![home_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/8a3d8fe2-cdca-46eb-9ca4-a06663e46ab2) | ![story_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/87988be2-55e9-43ef-b584-2c3852fb64e1) |![newpost_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/2a189c3e-15cd-4c46-8ba5-1346435d0568) |
+| Show                                          | Final                                  | Pdf                                             |
+| --------------------------------------------------- | ------------------------------------- | --------------------------------------------------------- |
+|![sheet-mobile](https://github.com/mohamed352/Fyrp/assets/48868363/e8a3f852-c415-40c1-941f-2f485bc8c811) |![Final-RESuot](https://github.com/mohamed352/Fyrp/assets/48868363/2be1f668-3b8a-4dea-92c6-eb7a55feb743) |![pdf-mobile_samsung-galaxys20-cloudblue-portrait](https://github.com/mohamed352/Fyrp/assets/48868363/9d1de37e-b332-4c3f-8f59-1da4294898aa) |
 
-| Comment                                     | Profile                                            | Setting                                           |
-| ------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-|![Comments_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/4e5abb18-23c0-4677-b865-3153c053743b) | ![profile_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/48ab96ef-a6a2-4549-bbed-500e7c5a56d7) |![setting_samsung-galaxys20-pink-portrait](https://github.com/mohamed352/Bigconnect/assets/48868363/6e66826a-c9c3-4f08-8450-fef0379ee7e7) |
+![Login](https://github.com/mohamed352/Fyrp/assets/48868363/b51ad00c-a5bd-4257-ab50-1baaa2486474)
+![home](https://github.com/mohamed352/Fyrp/assets/48868363/4b4288e7-89be-4fa2-b73e-eb9dfa2119e6)
+![Selectw](https://github.com/mohamed352/Fyrp/assets/48868363/d8089bff-77f5-4a5e-b8c9-857f8d5d0e06)
+![Dialog](https://github.com/mohamed352/Fyrp/assets/48868363/36295f00-ed97-42a1-9ed9-1df8b3b0d48f)
+![Finalresult](https://github.com/mohamed352/Fyrp/assets/48868363/b3756dce-9fe7-4146-a987-f31b320b5246)
+![Print](https://github.com/mohamed352/Fyrp/assets/48868363/21a7c3ec-1b04-496f-bcf9-a481bca467e3)
+
 ## Tools
 - Bloc & Cubit
 - Django
